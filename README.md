@@ -1,10 +1,5 @@
 # Task Manager - Advanced Features Assignment
 
-## Student Information
-- **Name:** [Your Name]
-- **Course:** MIS-233
-- **Assignment:** Advanced Features Implementation
-
 ## Implemented Features
 
 ###  1. User Accounts & Login/Logout (+ Bonus Registration)
